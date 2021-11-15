@@ -1,0 +1,40 @@
+.box1 {
+    float: left;
+    background-color: rgb(238, 191, 186);
+    width: 22%;
+    height: 600px;
+    margin: 10px;
+    padding: 4px;
+    border: 2px solid rgb(197, 157, 139); 
+    text-align: justify;
+}
+.box2 {
+    float: left;
+    background-color: rgb(186, 238, 218);
+    width: 22%;
+    height: 600px;
+    margin: 10px;
+    padding: 4px;
+    border: 2px solid rgb(151, 211, 159); 
+    text-align: justify;
+}
+.box3 {
+    float: left;
+    background-color: rgb(186, 230, 238);
+    width: 22%;
+    height: 600px;
+    margin: 10px;
+    padding: 4px;
+    border: 2px solid rgb(137, 163, 187); 
+    text-align: justify;
+}
+.box4 {
+    float: left;
+    background-color: rgb(219, 209, 248);
+    width: 22%;
+    height: 600px;
+    margin: 10px;
+    padding: 4px;
+    border: 2px solid rgb(152, 125, 196); 
+    text-align: justify;
+}

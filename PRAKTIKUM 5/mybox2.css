@@ -1,0 +1,50 @@
+.box1 {
+    float: left;
+    background-color: rgb(238, 191, 186);
+    width: 97%;
+    height: 160px;
+    margin: 5px;
+    padding: 4px;
+    border: 2px solid rgb(197, 157, 139); 
+    text-align: justify;
+}
+.box2 {
+    float: left;
+    background-color: rgb(186, 238, 218);
+    width: 15%;
+    height: 190px;
+    margin: 5px;
+    padding: 4px;
+    border: 2px solid rgb(151, 211, 159); 
+    text-align: justify;
+}
+.box3 {
+    float: left;
+    background-color: rgb(186, 230, 238);
+    width: 81%;
+    height: 190px;
+    margin: 5px;
+    padding: 4px;
+    border: 2px solid rgb(149, 174, 197); 
+    text-align: justify;
+}
+.box4 {
+    float: left;
+    background-color: rgb(219, 209, 248);
+    width: 15%;
+    height: 210px;
+    margin: 5px;
+    padding: 4px;
+    border: 2px solid rgb(159, 145, 182); 
+    text-align: justify;
+}
+.box5 {
+    float: left;
+    background-color: rgb(255, 254, 213);
+    width: 81%;
+    height: 210px;
+    margin: 5px;
+    padding: 4px;
+    border: 2px solid rgb(233, 212, 153); 
+    text-align: justify;
+}
