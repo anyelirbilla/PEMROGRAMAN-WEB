@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Praktikum 6.2</title>
+
+</head>
+<body>
+    <div class="container flex">
+        <div class="nav">
+            <p><b>Nav</b></p>
+        </div>
+        <div class="main">
+            <header>
+                <p><b>Header</b></p>
+            </header>
+            <div class="flex">
+                <div class="article">
+                    <p><b>Article</b></p>
+                </div>
+                <div class="aside">
+                    <p><b>Aside</b></p>
+                </div>
+            </div>
+            <footer>
+                <p><b>Footer</b></p>
+            </footer>
+        </div>
+    </div>
+</body>
+
+    <style>
+
+        .flex {
+            display: flex;
+        }
+
+        .container {
+            height: 600px;
+            width: 1280px;
+            margin: 30px auto;
+        }
+
+        .nav {
+            width: 300px;
+            padding: 25px;
+            background-color: rgb(237, 203, 253);
+            box-sizing: border-box;
+        }
+
+        .main {
+            width: 980px;
+        }
+
+        header, footer {
+            height: 120px;
+            width: 100%;
+            padding: 25px;
+            background-color: rgb(243, 197, 222);
+            box-sizing: border-box;
+        }
+
+        .article {
+            height: 360px;
+            width: 680px;
+            padding: 25px;
+            background-color: rgb(230, 232, 248);
+            box-sizing: border-box;
+        }
+
+        .aside {
+            height: 360px;
+            width: 300px;
+            padding: 25px;
+            background-color: rgb(199, 248, 190);
+            box-sizing: border-box;
+        }
+    </style>
+
+</html>
